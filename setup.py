@@ -14,6 +14,6 @@ setup(
 	author_email="anwar@standardtouch.com",
 	packages=find_packages(),
 	zip_safe=False,
-	include_package_data=True,
+	include_package_data=False,
 	install_requires=install_requires
 )
